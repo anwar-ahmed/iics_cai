@@ -1,0 +1,47 @@
+<aetgt:getResponse xmlns:aetgt="http://schemas.active-endpoints.com/appmodules/repository/2010/10/avrepository.xsd"
+                   xmlns:types1="http://schemas.active-endpoints.com/appmodules/repository/2010/10/avrepository.xsd">
+   <types1:Item>
+      <types1:EntryId>jJBUhtycotFgpKi-gt-60733-2020-07-29T02:05:01.603Z::tf.xml</types1:EntryId>
+      <types1:Name>SampleTaskflow</types1:Name>
+      <types1:MimeType>application/xml+taskflow</types1:MimeType>
+      <types1:Description/>
+      <types1:AppliesTo/>
+      <types1:Tags/>
+      <types1:VersionLabel>1.0</types1:VersionLabel>
+      <types1:State>CURRENT</types1:State>
+      <types1:ProcessGroup/>
+      <types1:CreatedBy>anwar.ahmed2@wipro.com.dev</types1:CreatedBy>
+      <types1:CreationDate>2020-07-29T02:05:02Z</types1:CreationDate>
+      <types1:ModifiedBy/>
+      <types1:PublicationStatus>published</types1:PublicationStatus>
+      <types1:PublishedBy>anwar.ahmed2@wipro.com.dev</types1:PublishedBy>
+      <types1:PublicationDate>2020-07-29T02:05:08Z</types1:PublicationDate>
+      <types1:PublishedContributionId>project:/tf.SampleTaskflow/SampleTaskflow.tf.xml</types1:PublishedContributionId>
+      <types1:AutosaveExists>false</types1:AutosaveExists>
+      <types1:Entry>
+         <taskflow xmlns="http://schemas.active-endpoints.com/appmodules/screenflow/2010/10/avosScreenflow.xsd"
+                   xmlns:list="urn:activevos:spi:list:functions"
+                   displayName="SampleTaskflow"
+                   name="SampleTaskflow"
+                   overrideAPIName="false">
+            <appliesTo/>
+            <description/>
+            <tags/>
+            <generator>Informatica Process Designer 11</generator>
+            <notes/>
+            <deployment suspendOnFault="false" tracingLevel="verbose">
+               <rest/>
+            </deployment>
+            <flow id="a">
+               <start id="b">
+                  <link id="link1" targetId="c"/>
+               </start>
+               <end id="c"/>
+            </flow>
+         </taskflow>
+      </types1:Entry>
+      <types1:GUID>4br6yydHzBZk8DSLrxoG4R</types1:GUID>
+      <types1:DisplayName>SampleTaskflow</types1:DisplayName>
+   </types1:Item>
+   <types1:CurrentServerDateTime>2020-07-29T02:29:19.248Z</types1:CurrentServerDateTime>
+</aetgt:getResponse>

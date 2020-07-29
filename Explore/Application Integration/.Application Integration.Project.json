@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "36gtun62LH3c70lX9JVgu2",
+    "name" : "Application Integration",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Keep All  Cloud Application Integration Assets Here",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
